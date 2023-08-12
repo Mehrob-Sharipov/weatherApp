@@ -1,0 +1,36 @@
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "01J-ch-GJM"; */
+"01J-ch-GJM.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Max"; ObjectID = "I3P-UF-Afn"; */
+"I3P-UF-Afn.text" = "Max";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "O9R-n2-LBl"; */
+"O9R-n2-LBl.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "MIn"; ObjectID = "Ouy-0x-bp5"; */
+"Ouy-0x-bp5.text" = "MIn";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "RL7-Gh-FyK"; */
+"RL7-Gh-FyK.text" = "-";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "UlU-mI-QVE"; */
+"UlU-mI-QVE.text" = "-";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "VE7-WQ-RDB"; */
+"VE7-WQ-RDB.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "XxH-ea-enS"; */
+"XxH-ea-enS.text" = "-";
+
+/* Class = "UILabel"; text = "Current"; ObjectID = "e10-2K-rgf"; */
+"e10-2K-rgf.text" = "Current";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "kWY-rM-AlY"; */
+"kWY-rM-AlY.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "kjk-GD-iCh"; */
+"kjk-GD-iCh.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "sk6-a6-bln"; */
+"sk6-a6-bln.text" = "-";
